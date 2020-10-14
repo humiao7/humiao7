@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### humiao7 
+
+![](https://github-readme-stats.vercel.app/api?username=humiao7)
+
+![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
+
+- 🔭 I’m currently working on [Hand](https://www.hand-china.com/)
