@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-### Humiao ✈️
-![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
+### 古月 :snowman:
 
 前端工程师一枚，vue重度使用者，擅长移动端、小程序开发，充电学习中...:electric_plug:
 
+![](https://github-readme-stats.vercel.app/api?username=humiao7)
+
+![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
+
 - 🔭 I’m currently working on [Hand](https://www.hand-china.com/)
-- 🌱 I’m currently learning `React` `Python`...
+- 🌱 I’m currently learning `React` `Nodejs` `Python`...
