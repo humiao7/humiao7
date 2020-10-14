@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
-### humiao7 ✨
-
-![](https://github-readme-stats.vercel.app/api?username=humiao7)
-
+### Humiao ✈️
 ![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
 
+前端工程师一枚，vue重度使用者，擅长移动端、小程序开发，充电学习中...:electric_plug:
+
 - 🔭 I’m currently working on [Hand](https://www.hand-china.com/)
+- 🌱 I’m currently learning `React` `Python`...
