@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 ### 古月 :snowman:
 
-前端工程师一枚，vue重度使用者，擅长移动端App、小程序开发，充电学习中...:electric_plug:
+WEB前端工程师一枚，`vue`、`react`重度使用者，擅长移动端App、小程序开发，充电学习中...:electric_plug:
 
 ![](https://github-readme-stats.vercel.app/api?username=humiao7)
 
 ![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
 
 - 🔭 I’m currently working on [HAND](https://www.hand-china.com/)
-- 🌱 I’m currently learning `React` `Nodejs` `Python`...
+- 🌱 I’m currently learning `Nodejs` `Python`...
 
 #### 作品展示
 
-[:palm_tree: vue-app](https://humiao7.github.io/vue-demo.github.io/#/login)
+[:palm_tree: vue-app](https://humiao7.github.io/vue-demo.github.io/#/login)            [:tulip: react-demo](https://humiao7.github.io/react-demo.github.io/#/)
