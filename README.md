@@ -26,4 +26,6 @@ WEB前端工程师一枚，`vue`、`react`重度使用者，擅长移动端App�
 
 #### 作品展示
 
-[:palm_tree: vue-app](https://humiao7.github.io/vue-demo.github.io/#/login)            [:tulip: react-demo](https://humiao7.github.io/react-demo.github.io/#/)
+:palm_tree: Vue-Demo： [在线体验](https://humiao7.github.io/vue-demo.github.io/#/login)   |   [APP下载](https://www.pgyer.com/DPPU)        
+
+:tulip: React-Demo：[在线体验](https://humiao7.github.io/react-demo.github.io/#/)
