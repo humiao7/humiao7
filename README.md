@@ -13,19 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-### 古月 :snowman:
+### 古月 :snowman: ​![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
 
 WEB前端工程师一枚，`vue`、`react`重度使用者，擅长移动端App、小程序开发，充电学习中...:electric_plug:
 
 ![](https://github-readme-stats.vercel.app/api?username=humiao7)
-
-![ViewCount](https://views.whatilearened.today/views/github/humiao7/humiao7.svg)
 
 - 🔭 I’m currently working on [HAND](https://www.hand-china.com/)
 - 🌱 I’m currently learning `Nodejs` `Python`...
 
 #### 作品展示
 
-:palm_tree: Vue-Demo： [在线体验](https://humiao7.github.io/vue-demo.github.io/#/login)   |   [APP下载](https://www.pgyer.com/DPPU)        
-
-:tulip: React-Demo：[在线体验](https://humiao7.github.io/react-demo.github.io/#/)
+|                            React                             |                             Vue                              |                  app                  |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: |
+| [React-Demo](https://humiao7.github.io/react-demo.github.io/#/) | [Vue-Demo](https://humiao7.github.io/vue-demo.github.io/#/login) | [APP下载](https://www.pgyer.com/DPPU) |
