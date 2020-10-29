@@ -25,6 +25,6 @@ WEB前端工程师一枚，`vue`、`react`重度使用者，擅长移动端App�
 
 |                            React                             |                             Vue                              |                  app                  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: |
-| [HBicycle](https://humiao7.github.io/react-demo.github.io/#/) | [Vue-Demo](https://humiao7.github.io/vue-demo.github.io/#/login) | [APP下载](https://www.pgyer.com/DPPU) |
+| [HBicycle](https://humiao7.github.io/HBicycle.github.io/) | [Vue-Demo](https://humiao7.github.io/vue-demo.github.io/#/login) | [APP下载](https://www.pgyer.com/DPPU) |
 
 ![](https://github-readme-stats.vercel.app/api?username=humiao7)
